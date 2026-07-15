@@ -1,0 +1,23 @@
+{
+  "domain": "example.com",
+  "url": "https://example.com",
+  "expected_users": 2500,
+  "dns_info": {
+    "status": 0,
+    "records": [
+      {
+        "type": 1,
+        "data": "172.66.147.243",
+        "ttl": 231
+      },
+      {
+        "type": 1,
+        "data": "104.20.23.154",
+        "ttl": 231
+      }
+    ]
+  },
+  "public_ip": {
+    "ip": "88.236.103.56"
+  }
+}
